@@ -26,6 +26,7 @@
 <a href="https://cn.vitejs.dev"><code><img height="40" src="./images/SkillIconsThreejsDark.png"></code></a>
 <a href="https://cn.vitejs.dev"><code><img height="40" src="./images/gsap.png"></code></a>
 <a href="https://cn.vitejs.dev"><code><img height="40" src="./images/lottie.png"></code></a>
+<a href="https://cn.vitejs.dev"><code><img height="40" src="./images/sass.png"></code></a>
 
 <h3>BE Developer(maybe)</h3>
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/Django.png"></code></a>
@@ -88,5 +89,5 @@
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/Xmind.png"></code></a>
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/VISIO.png"></code></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristineZhiMei&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristineZhiMei&layout=compact)
 ![ChristineZhiMei's github stats](https://github-readme-stats.vercel.app/api?username=ChristineZhiMei&show_icons=true&theme=React)
