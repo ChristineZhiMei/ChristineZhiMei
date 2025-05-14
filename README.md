@@ -8,17 +8,18 @@
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/golang.png"></code></a>
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/javascript.png"></code></a>
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/typescript.png"></code></a>
+<a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/css3.png"></code></a>
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/html.png"></code></a>
-<a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/logosCss3.png"></code></a>
+
 
 <h3>FE Developer(++)</h3>
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/vue.png"></code></a>
 <a href="https://reactjs.org/"><code><img height="40" src="./images/react.svg"></code></a>
 <a href="https://cn.vitejs.dev"><code><img height="40" src="./images/uni-app.png"></code></a>
 <a href="https://cn.vitejs.dev"><code><img height="40" src="./images/LogosElectron.png"></code></a>
-<a href="https://cn.vitejs.dev"><code><img height="40" src="./images/QT.png"></code></a>
+<a href="https://cn.vitejs.dev"><code><img height="40" src="./images/qt.png"></code></a>
 <a href="https://tailwindcss.com"><code><img height="40" src="./images/DeviconTailwindcss.png"></code></a>
-<a href="https://tailwindcss.com"><code><img height="40" src="./images/pinia.png"></code></a>
+<a href="https://tailwindcss.com"><code><img height="40" src="./images/pinia2.png"></code></a>
 <a href="https://cn.vitejs.dev"><code><img height="40" src="./images/element plus.svg"></code></a>
 <a href="https://cn.vitejs.dev"><code><img height="40" src="./images/SimpleIconsShadcnui.png"></code></a>
 <a href="https://cn.vitejs.dev"><code><img height="40" src="./images/ECharts.png"></code></a>
