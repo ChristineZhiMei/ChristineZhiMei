@@ -1,7 +1,12 @@
 <img align="right" src="https://count.getloli.com/get/@:ChristineZhiMei?theme=rule34">
-<h1><b>一个热爱前端的程序猿</b></h1> 
-热爱前端、热爱技术。喜欢参与一些开源项目的讨论。
-<h2>🌔我都会些啥呢</h2>
+<h1><b>🚀一个热爱前端的程序猿🚄</b></h1> 
+<b>热爱前端、热爱技术、热爱游戏、热爱艺术</b>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristineZhiMei&show_icons=true&theme=React" alt="ChristineZhiMei's github stats" height=150>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristineZhiMei&layout=compact" alt="Top Langs" height=150>
+</div>
+<h2>🌔我都会些啥呢?</h2>
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/c.png"></code></a>
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/cpp.png"></code></a>
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/python.png"></code></a>
@@ -10,7 +15,6 @@
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/typescript.png"></code></a>
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/css3.png"></code></a>
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/html.png"></code></a>
-
 
 <h3>FE Developer(++)</h3>
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/vue.png"></code></a>
@@ -90,5 +94,4 @@
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/Xmind.png"></code></a>
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/VISIO.png"></code></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristineZhiMei&layout=compact)
-![ChristineZhiMei's github stats](https://github-readme-stats.vercel.app/api?username=ChristineZhiMei&show_icons=true&theme=React)
+
