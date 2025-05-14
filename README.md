@@ -19,7 +19,7 @@
 <a href="https://cn.vitejs.dev"><code><img height="40" src="./images/LogosElectron.png"></code></a>
 <a href="https://cn.vitejs.dev"><code><img height="40" src="./images/qt.png"></code></a>
 <a href="https://tailwindcss.com"><code><img height="40" src="./images/DeviconTailwindcss.png"></code></a>
-<a href="https://tailwindcss.com"><code><img height="40" src="./images/pinia2.png"></code></a>
+<a href="https://tailwindcss.com"><code><img height="40" src="./images/Pinia2.png"></code></a>
 <a href="https://cn.vitejs.dev"><code><img height="40" src="./images/element plus.svg"></code></a>
 <a href="https://cn.vitejs.dev"><code><img height="40" src="./images/SimpleIconsShadcnui.png"></code></a>
 <a href="https://cn.vitejs.dev"><code><img height="40" src="./images/ECharts.png"></code></a>
