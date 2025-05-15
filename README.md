@@ -7,7 +7,7 @@
 
 <h3>正在开发中🥇</h3>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChristineZhiMei&repo=IMAGE_MANAGEMENT" alt="Top Langs" height=150>
+    <a href="https://github.com/ChristineZhiMei/IMAGE_MANAGEMENT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ChristineZhiMei&repo=IMAGE_MANAGEMENT" alt="Top Langs" height=150></a>
     <img src="./images/qunqing.GIF" alt="" height=150>
 </div>
 <div>
