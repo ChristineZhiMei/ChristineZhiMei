@@ -34,6 +34,7 @@
 <a href="https://cn.vitejs.dev"><code><img height="40" src="./images/sass.png"></code></a>
 
 <h3>BE Developer(maybe)</h3>
+<a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/Django.png"></code></a>
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/DeviconPlainDjangorest.png"></code></a>
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/FastAPI.png"></code></a>
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/Mysql.png"></code></a>
