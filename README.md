@@ -106,4 +106,5 @@
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/Xmind.png"></code></a>
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/VISIO.png"></code></a>
 
-
+![Light mode image](profile-3d-contrib/profile-season-animate.svg#gh-light-mode-only)
+![Dark mode image](profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
