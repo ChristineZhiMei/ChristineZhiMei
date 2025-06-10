@@ -17,7 +17,7 @@
 
 
 
-<h2>🌔我都会些啥呢?</h2>
+<h2>🌔</h2>
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/c.png"></code></a>
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/cpp.png"></code></a>
 <a href="https://v3.cn.vuejs.org"><code><img height="40" src="./images/python.png"></code></a>
