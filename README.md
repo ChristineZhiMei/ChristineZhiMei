@@ -5,7 +5,7 @@
 
 
 
-<h3>正在开发中🥇</h3>
+<!-- <h3>正在开发中🥇</h3>
 <div>
     <a href="https://github.com/ChristineZhiMei/STYLIZED_IMITATION"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ChristineZhiMei&repo=STYLIZED_IMITATION" alt="Top Langs" height=150></a>
     <img src="./images/qunqing.GIF" alt="" height=150>
@@ -13,7 +13,7 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ChristineZhiMei&show_icons=true&theme=React" alt="ChristineZhiMei's github stats" height=150>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristineZhiMei&layout=compact" alt="Top Langs" height=150>
-</div>
+</div> -->
 
 
 
